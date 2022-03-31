@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.3'
 # Use boostrap layout
 gem 'bootstrap-sass'
 # Use sqlite3 as the database for Active Record
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Webpacker as compressor for JavaScript assets
